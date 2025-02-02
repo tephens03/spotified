@@ -6,7 +6,7 @@ export default function Navbar() {
 
             
             <div className='flex mx-auto justify-center leading-[6rem] items-center text-4xl'>
-                <i class="fa fa-podcast" aria-hidden="true"> podcastEDM </i>
+                <i class="fa fa-podcast" aria-hidden="true"> Spottifed (unactive) </i>
                
             </div>
 
